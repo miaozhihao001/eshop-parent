@@ -1,0 +1,4 @@
+com\zhihao\miao\WordCount.class
+com\zhihao\miao\RandomSentenceSpout.class
+com\zhihao\miao\SplitSentence.class
+com\zhihao\miao\WordCountTopology.class

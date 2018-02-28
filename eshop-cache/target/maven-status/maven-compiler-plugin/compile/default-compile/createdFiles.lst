@@ -1,0 +1,12 @@
+com\zhihao\miao\cache\controller\CacheController.class
+com\zhihao\miao\cache\kafka\KafkaMessageProcessor.class
+com\zhihao\miao\cache\Application.class
+com\zhihao\miao\cache\listener\InitListener.class
+com\zhihao\miao\cache\kafka\KafkaConsumer.class
+com\zhihao\miao\cache\service\impl\CacheServiceImpl.class
+com\zhihao\miao\cache\spring\SpringContext.class
+com\zhihao\miao\cache\model\ShopInfo.class
+com\zhihao\miao\cache\model\ProductInfo.class
+com\zhihao\miao\cache\service\CacheService.class
+com\zhihao\miao\cache\config\CacheConfiguration.class
+com\zhihao\miao\cache\config\ShopConfig.class

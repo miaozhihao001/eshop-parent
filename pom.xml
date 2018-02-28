@@ -12,6 +12,9 @@
   <modules>
     <module>eshop-inventory</module>
       <module>eshop-cache</module>
+      <module>storm-helloworld</module>
+      <module>eshop-cache-ha</module>
+      <module>eshop-product-ha</module>
   </modules>
 
 

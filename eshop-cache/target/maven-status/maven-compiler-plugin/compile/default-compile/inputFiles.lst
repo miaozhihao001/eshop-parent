@@ -1,0 +1,12 @@
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\kafka\KafkaConsumer.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\service\impl\CacheServiceImpl.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\spring\SpringContext.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\config\CacheConfiguration.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\model\ProductInfo.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\config\ShopConfig.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\controller\CacheController.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\listener\InitListener.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\Application.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\kafka\KafkaMessageProcessor.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\service\CacheService.java
+E:\spring-cloud\eshop-parent\eshop-cache\src\main\java\com\zhihao\miao\cache\model\ShopInfo.java
